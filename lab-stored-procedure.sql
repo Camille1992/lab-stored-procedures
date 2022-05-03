@@ -79,7 +79,7 @@ END;
 //
 DELIMITER ;
 
-CALL name_list("Action");
+CALL name_list("Sci-Fi");
 
 DROP PROCEDURE name_list;
 
@@ -137,5 +137,5 @@ END;
 //
 DELIMITER ;
 
-CALL cat_count(60);
+CALL cat_count(61);
 
